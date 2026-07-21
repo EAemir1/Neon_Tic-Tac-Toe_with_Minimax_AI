@@ -18,5 +18,4 @@ class MainApp extends StatelessWidget {
   }
 }
 
-
-//x
+// github dil istatistiğini tetikleme
