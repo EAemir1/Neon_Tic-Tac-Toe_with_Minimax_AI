@@ -144,7 +144,7 @@ This application uses the following libraries and resources:
 
 ---
 ## Upcoming Features:
-- [ ] *New App Icon*
+- [X] *New App Icon*
 - [ ] *English Language Support*
 - [ ] *Online PvP*
 ---
