@@ -142,7 +142,11 @@ This application uses the following libraries and resources:
   </tr>
 </table>
 
-
+---
+## Upcoming Features:
+- [ ] *New App Icon*
+- [ ] *English Language Support*
+- [ ] *Online PvP*
 ---
 
 ## 📜 License
